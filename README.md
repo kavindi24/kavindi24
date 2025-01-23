@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavindi Nadeesha</h1>
+<h1 align="center">Hi there! 👋 I’m a Software Engineering student at ESOFT Metro Campus, passionate about creating impactful user experiences and building innovative solutions. With hands-on experience in UX/UI design and system analysis, I aim to bridge the gap between users and technology.</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindi24&label=Profile%20views&color=0e75b6&style=flat" alt="kavindi24" /> </p>

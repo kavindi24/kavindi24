@@ -1,11 +1,31 @@
-<h1 align="center">Hi there! 👋 I’m a Software Engineering student at ESOFT Metro Campus, passionate about creating impactful user experiences and building innovative solutions. With hands-on experience in UX/UI design and system analysis, I aim to bridge the gap between users and technology.</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Hi there! 👋 I’m a Software Engineering student at ESOFT Metro Campus, passionate about creating impactful user experiences and building innovative solutions. With hands-on experience in UX/UI design and system analysis, I aim to bridge the gap between users and technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindi24&label=Profile%20views&color=0e75b6&style=flat" alt="kavindi24" /> </p>
+<h3>💻 What I Do</h3>
+<ul style="list-style-type: none; padding: 0;">
+  <li><i class="fas fa-code"></i>🖥️ Frontend & Backend Development</li>
+  <li><i class="fas fa-paint-brush"></i>🎨 User Interface Design</li>
+  <li><i class="fas fa-laptop-code"></i> 🖱️Building Web-Based Applications</li>
+</ul>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindi24" alt="kavindi24" /></a> </p>
-
-- 🌱 I’m currently learning **Pearson BTEC HND in Software Engineering**
+<h3>📚 Educational Qualifications</h3>
+<ul>
+  <li><strong>Higher National Diploma in Computing</strong><br>
+      <em>ESOFT Metro Campus, Kurunegala</em> (2023 – Present)
+  </li>
+  <li><strong>Level 3 Diploma in Information Technology</strong><br>
+      <em>ESOFT Metro Campus, Kurunegala</em> (2023 – 8 Months)
+  </li>
+  <li><strong>Advanced Certificate in Information Communication Technology</strong><br>
+      <em>SIBA Campus, National Youth Corp, Kuliyapitiya</em> (2023 – 3 Months)
+  </li>
+  <li><strong>GCE A/L Examination</strong><br>
+      <em>Central College, Kuliyapitiya</em> (2022)
+  </li>
+  <li><strong>GCE O/L Examination</strong><br>
+      <em>Central College, Kuliyapitiya</em> (2019)
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
